@@ -21,6 +21,16 @@ function App() {
         <li> SPA & MPA </li>
         <li>DOM </li>
         <li> Virtual Dom </li>
+
+        <ol>start with use</ol>
+        <p>eg</p>
+        <ol>
+          <li> usestate()</li>
+          <li> useeffect()</li>
+          <li> useref()</li>
+          <li> usememo()</li>
+          <li> usecallback()</li>
+        </ol>
       </ul>
       <Profile />
     </main>

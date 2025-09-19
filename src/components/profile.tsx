@@ -1,4 +1,5 @@
-const Profile = () => {
+const Profile = (props) => {
+  console.log(props);
   return (
     <div>
       <h1>User Name</h1>
